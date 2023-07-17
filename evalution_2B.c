@@ -1,3 +1,6 @@
+/* C program for reading an array of integers from an input file sorting the array using one of the available sorting techniques
+Insertion Sort, Bubble Sort, or Selection Sort), and then writing the sorted array to an output file*/
+
 #include <stdio.h>
 #define MAX_SIZE 1000
 
